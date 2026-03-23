@@ -1,0 +1,10 @@
+baseURL = "https://sisy.live/"
+languageCode = "en-us"
+title = "SISY.live - Events Hub for Women Experts"
+
+[params]
+  description = "Where women experts take the stage - live. Panels, webinars, virtual summits, and practice stages for women experts and their audiences."
+  tagline = "Where women experts take the stage - live."
+
+[markup.goldmark.renderer]
+  unsafe = true
